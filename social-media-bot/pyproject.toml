@@ -6,7 +6,7 @@ authors = ["Ravinder Chadha <ravinderchadha1233@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
-requests = "^2.26.0"
+requests = "^2.31.0"
 "discord.py" = "^1.7.3"
 discord = "^1.7.3"
 
